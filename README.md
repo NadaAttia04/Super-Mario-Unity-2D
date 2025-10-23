@@ -10,7 +10,7 @@ The gameplay captures Mario’s core mechanics — run, jump, break blocks, and 
 
 This project is perfect as a foundation for **learning, modding, or building your own platformer adventure** 
 
----
+----
 
 ## ✨ Features
 - 🎯 Faithful recreation of Mario-style movement, physics, and controls.  
