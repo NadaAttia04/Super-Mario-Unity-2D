@@ -8,7 +8,7 @@
 Players guide their character through colorful and challenging levels filled with hazards, coins, power-ups, and classic enemies.  
 The gameplay captures Mario’s core mechanics — run, jump, break blocks, and reach the flagpole — built using **Unity’s 2D tools** and modular **C# code**.  
 
-This project is perfect as a foundation for **learning, modding, or building your own platformer adventure**.  
+This project is perfect as a foundation for **learning, modding, or building your own platformer adventure** 
 
 ---
 
