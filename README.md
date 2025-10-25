@@ -4,7 +4,7 @@
 
 
 ## 📝 Overview
-**Unity Mario Platformer (2D)** is a side-scrolling game inspired by the legendary **Super Mario** series.  
+**Unity Mario Platformer (2D)** is a side-scrolling game inspired by the legendary **Super Mario** series
 Players guide their character through colorful and challenging levels filled with hazards, coins, power-ups, and classic enemies.  
 The gameplay captures Mario’s core mechanics — run, jump, break blocks, and reach the flagpole — built using **Unity’s 2D tools** and modular **C# code**.  
 
